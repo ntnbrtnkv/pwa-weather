@@ -1,8 +1,8 @@
-# Weather Progressive Web App
+# ⛅ Weather Progressive Web App
 
 Simple app for learning PWA based on Google's [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 
-## Testing
+## 🧪 Testing
 
 1) Install http server via `npm`
 
@@ -18,7 +18,7 @@ Simple app for learning PWA based on Google's [Your first Progressive Web App](h
 
 3) Visit [http://localhost:8080](http://localhost:8080)
 
-## Deploy
+## 🌐 Deploy
 
 Deploy by `firebase`
 
